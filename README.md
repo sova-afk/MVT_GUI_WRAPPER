@@ -124,7 +124,3 @@ run.bat
 
 MVT and this wrapper are triage/analysis tools and do not guarantee detection of advanced spyware by themselves.
 If compromise is strongly suspected, consult professional incident response/forensic support.
-
-## Next Steps (Suggested)
-
-- Add per-workflow advanced options in GUI (module filters, verbose mode, etc.)
