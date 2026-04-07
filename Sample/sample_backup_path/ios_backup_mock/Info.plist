@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Device Name</key><string>iPhone-Forensic-Mock</string>
+  <key>Product Type</key><string>iPhone14,5</string>
+  <key>Product Version</key><string>17.4</string>
+  <key>Serial Number</key><string>MOCKSERIAL12345</string>
+  <key>Last Backup Date</key><string>2026-04-07T08:30:00Z</string>
+</dict>
+</plist>

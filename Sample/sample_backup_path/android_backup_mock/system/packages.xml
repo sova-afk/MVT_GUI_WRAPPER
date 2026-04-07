@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package name="com.whatsapp" codePath="/data/app/com.whatsapp-1" userId="10123" />
+  <package name="com.android.chrome" codePath="/data/app/com.android.chrome-2" userId="10142" />
+</packages>

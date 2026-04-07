@@ -9,6 +9,18 @@ The goal is to let users run common MVT workflows without using terminal command
 - Python 3.10+ (tested with modern Python on Windows)
 - Tkinter (built into Python)
 - `mvt` Python package
+- Python standard library modules used in implementation:
+  - `threading` (non-blocking GUI execution)
+  - `multiprocessing` (safe run cancellation/stop support)
+  - `queue` (thread/process communication)
+  - `json` (settings + report parsing)
+  - `csv` (CSV report export)
+  - `webbrowser` (open links from logs)
+  - `pathlib`, `os` (filesystem/path operations)
+  - `re` (ANSI/progress/link parsing)
+  - `datetime` (timestamped output folders)
+  - `contextlib` (stdout/stderr capture routing)
+  - `html` (safe HTML report export escaping)
 
 Why this stack:
 - Fast to implement and easy to maintain

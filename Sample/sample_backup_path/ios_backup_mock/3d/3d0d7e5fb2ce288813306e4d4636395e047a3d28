@@ -1,0 +1,3 @@
+SQLite format 3
+-- mock placeholder only (not a valid sqlite DB)
+-- intended to resemble hashed backup file naming
